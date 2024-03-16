@@ -49,3 +49,10 @@ Base:
 ## Conclusão
 
 Siga as instruções do professor e boa sorte! 😎
+
+# Projeto
+
+## Dados dos Membros
+- João Vitor Choueri Branco - 21.01075-7
+- Pedro Henrique de Sousa Matumoto - 21.00784-5
+- Vitor Guirão Soller - 21.01444-2
